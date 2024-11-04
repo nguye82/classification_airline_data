@@ -20,11 +20,11 @@ The main Jupyter Notebook (Project_Notebook.ipynb) covers model training and eva
 # Requirements
 Ensure you have the following dependencies installed to run the code:
 
-Python 3.10.4
-Jupyter Notebook
-keras
-matplotlib
-numpy
-pandas
-scikit-learn
-tensorflow
+- Python 3.10.4
+- Jupyter Notebook
+- keras
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- tensorflow
